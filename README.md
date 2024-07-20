@@ -1,3 +1,5 @@
+EQUIPE: André Luiz Cardoso, Luis Gustavo Ataide
+
 para rodar o programa, apenas estar na pasta do arquivo main.go, e rodar o comando "go run" passar o nome do arquivo "main.go" e por fim ao menos a URL,
 ficando no minimo desta forma: go run main.go http://eu.httpbin.org
 
